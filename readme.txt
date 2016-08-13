@@ -8,7 +8,4 @@ now its svn
 now its sub
 --no-ff
 issue_bug
-<<<<<<< Updated upstream
-=======
 13.15 pm issue_bug
->>>>>>> Stashed changes
